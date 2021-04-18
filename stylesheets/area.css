@@ -1,0 +1,46 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size: small;
+}
+
+ul {
+  padding-top: 5px;
+  padding-bottom: 0px;
+  padding-left: 0;
+  padding-right: 0;
+  list-style-type: none;
+}
+
+Li {
+
+}
+
+a {
+  color: black;
+}
+ 
+.light {
+  background-color: #e5f3f5;
+}
+
+.dark {
+  background-color: #c1e0e7;
+}
+
+.ui-tabs .ui-tabs-nav li a {
+  font-size: small !important;
+}
+
+.no-padding {
+  padding: 0 0 0 0 !important;
+}
+
+a {
+  font-size: small;
+}
+
+div.box {
+  margin-top: 1px;
+  height: 15em !important;
+}
